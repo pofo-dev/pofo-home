@@ -1,4 +1,4 @@
-baseURL = "http://pofo.today/"
+baseURL = "https://pofo-home.netlify.com/"
 languageCode = "en-us"
 title = "POFO"
 defaultContentLanguage = "en"
