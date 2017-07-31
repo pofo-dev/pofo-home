@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elite-cabbage.aerobatic.io/categories/</loc>
+    <loc>http://pofo.today/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elite-cabbage.aerobatic.io/contact/</loc>
+    <loc>http://pofo.today/contact/</loc>
   </url>
   
   <url>
-    <loc>https://elite-cabbage.aerobatic.io/</loc>
+    <loc>http://pofo.today/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elite-cabbage.aerobatic.io/tags/</loc>
+    <loc>http://pofo.today/tags/</loc>
     <priority>0</priority>
   </url>
   
