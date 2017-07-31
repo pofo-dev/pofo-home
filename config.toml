@@ -1,0 +1,53 @@
+baseURL = "http://pofo.today/"
+languageCode = "en-us"
+title = "POFO"
+defaultContentLanguage = "en"
+theme = "hugo-universal-theme"
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Hotel"
+    url  = "/hotel/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 3
+
+[params]
+    style = "default"
+    email = "info@pofo.today"
+    latitude = "22.318835"
+    longitude = "113.934283"
+    direction = "Regal Airport Hotel, Hong Kong International Airport, 9 Cheong Tat Rd, Chek Lap Kok Lantau Island, Hong Kong"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us on info@pofo.today.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'data/carousel'.
+
+[params.features]
+    enable = true
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "Do you want to become a hotel partner?"
+    subtitle = "POFO can do something"
+    link_url = "contact/"
+    link_text = "Contact us now"
+
