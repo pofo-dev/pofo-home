@@ -1,3 +1,4 @@
 weight: 3
-name: "Feature 3"
-description: "Description 3"
+name: "Trackable"
+description: "Track your luggages anywhere, anytime"
+icon: "fa fa-compass"

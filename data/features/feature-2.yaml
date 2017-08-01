@@ -1,3 +1,4 @@
 weight: 2
-name: "Feature 2"
-description: "Description 2"
+name: "Realtime"
+description: "Realtime luggage location update"
+icon: "fa fa-flash"

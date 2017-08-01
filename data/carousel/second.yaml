@@ -1,7 +1,9 @@
 weight: 2
-title: "Page 2"
+title: "Enjoy the city"
 description: >
   <ul class="list-style-none">
-    <li>Selling Point 2</li>
+    <li>Checkout at hotel</li> 
+    <li>Enjoy every minute in the city</li>
+    <li>retrieve luggage at airport</li>
   </ul>
 image: "img/carousel/template-easy-customize.png"
