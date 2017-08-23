@@ -22,6 +22,11 @@ theme = "hugo-universal-theme"
 [params]
     style = "default"
     email = "info@pofo.today"
+    copyright = "Copyright (c) 2017 - 2017, POFO Technology Ltd.; all rights reserved."
+    author = "pofo"
+    defaultKeywords = ["luggage", "delivery", "hong kong"]
+    defaultDescription = ""
+    logo = "img/logo.png"
     latitude = "22.318835"
     longitude = "113.934283"
     direction = "Regal Airport Hotel, Hong Kong International Airport, 9 Cheong Tat Rd, Chek Lap Kok Lantau Island, Hong Kong"
@@ -46,8 +51,8 @@ theme = "hugo-universal-theme"
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to become a hotel partner?"
-    subtitle = "POFO can do something"
+    title = "Want to become a hotel partner?"
+    subtitle = "Our business representative is "
     link_url = "contact/"
     link_text = "Contact us now"
 
